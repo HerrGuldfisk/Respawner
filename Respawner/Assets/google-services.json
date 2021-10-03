@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782793465728",
+    "project_id": "respawner-7162e",
+    "storage_bucket": "respawner-7162e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782793465728:android:13224e17151c948359eb65",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Respawner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782793465728-k2d3lq6nk7inij9dhn0qb3rjj25qcnt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD698-WmnLwTDv3UnkmfAEL85M5RRA2fAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782793465728-k2d3lq6nk7inij9dhn0qb3rjj25qcnt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
